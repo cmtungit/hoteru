@@ -88,17 +88,14 @@ This is a multiple pages hotel booking web application built using React, Tailwi
 ### Key features
 
 1. Hotel Search, sorting and filtering:
-
 - Users can search for hotels, sort the search results based on relevance, prices and rating, and filter the results based on checked amenities
 
 2. Favorites, Cart, and Order Records (for logged-in users):
-
 - Users can add hotels to their favorites, which are stored in the application state and synced with the user's Firestore data
 - Users can add hotels to their cart, and the total price is calculated and stored in the state
 - Users can view their order history in the Order Record page, which retrieves data from the user's Firestore account
 
 3. Chatbot
-
 - Users can use a chatbot to greet or get hotel recommendations by typing city names (mock data)
 
 ### Built With [![React][React.js]][React-url]
