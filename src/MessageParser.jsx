@@ -4,14 +4,17 @@ import { city } from "./cityname";
 const MessageParser = ({ children, actions }) => {
   const parse = (message) => {
     let found = false;
-
-    if (message.includes("hello")) {
+    let greetings = ["hello", "HELLO", "Hello", "hi", "Hi", "HI"];
+    if (greetings.some((el) => message.includes(el))) {
       actions.handleHello();
       found = true;
     }
 
     city.forEach((cityItem) => {
-      if (message.includes(cityItem)) {
+      if (
+        message.includes(cityItem) ||
+        message.includes(cityItem.toLowerCase())
+      ) {
         actions.handleRecommendation(cityItem);
         found = true;
       }

@@ -1231,8 +1231,8 @@ function SearchButton({
 export function SearchFunction({ hotelData, setHotelData, originalHotelData, setOriginalHotelData }) {
   let navigate = useNavigate();
   const [date, setDate] = React.useState({
-    from: new Date(2024, 7, 26),
-    to: addDays(new Date(2024, 7, 26), 2),
+    from: new Date(2024, 8, 26),
+    to: addDays(new Date(2024, 8, 26), 2),
   });
   const [adult, setAdult] = React.useState(1);
   const [children, setChildren] = React.useState(0);
