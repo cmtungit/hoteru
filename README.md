@@ -81,26 +81,22 @@ A Hotel Booking Web Application
 
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]]()
+[![Hoteru Screen Shot][product-screenshot]]()
 
 This is a multiple pages hotel booking web application built using React, Tailwind CSS, and Firebase. The application offers a range of features to provide users with a seamless hotel booking experience.
 
 ### Key features
 
 1. Hotel Search, sorting and filtering:
-  - Users can search for hotels, sort the results based on relevance, prices and rating, and filter the results based on selected 
-
+  - Users can search for hotels, sort the search results based on relevance, prices and rating, and filter the results based on checked amenities 
 2. Favorites, Cart, and Order Records (for logged-in users):
   - Users can add hotels to their favorites, which are stored in the application state and synced with the user's Firestore data
   - Users can add hotels to their cart, and the total price is calculated and stored in the state
   - Users can view their order history in the Order Record page, which retrieves data from the user's Firestore account
-
 3. Chatbot
 - Users can use a chatbot to greet or get hotel recommendations by typing city names (mock data)
 
-### Built With
-
-- [![React][React.js]][React-url]
+### Built With [![React][React.js]][React-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -212,31 +208,31 @@ Project Link: [https://github.com/cmtungit/hoteru](https://github.com/cmtungit/h
 
 ## Acknowledgments
 My fellow groupmates
--   <a href="https://github.com/llkk87">
+<a href="https://github.com/llkk87">
     <img src="https://avatars.githubusercontent.com/u/45361544?s=64&v=4" alt="Paul Chan Logo" width="80" height="80">
   </a>
--   <a href="https://github.com/Evelyiu">
+<a href="https://github.com/Evelyiu">
     <img src="https://avatars.githubusercontent.com/u/136465766?s=64&v=4" alt="Eve Sung Logo" width="80" height="80">
   </a>
-- [Sing](mailto:sing09512@gmail.com)
+- [Sing](sing09512@gmail.com)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/github_username/repo_name.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/cmtungit/hoteru.svg?style=for-the-badge
 [contributors-url]: https://github.com/cmtungit/hoteru/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/github_username/repo_name.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/cmtungit/hoteru.svg?style=for-the-badge
 [forks-url]: https://github.com/cmtungit/hoteru/network/members
-[stars-shield]: https://img.shields.io/github/stars/github_username/repo_name.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/cmtungit/hoteru.svg?style=for-the-badge
 [stars-url]: https://github.com/cmtungit/hoteru/stargazers
-[issues-shield]: https://img.shields.io/github/issues/github_username/repo_name.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/cmtungit/hoteru.svg?style=for-the-badge
 [issues-url]: https://github.com/cmtungit/hoteru/issues
-[license-shield]: https://img.shields.io/github/license/github_username/repo_name.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/cmtungit/hoteru.svg?style=for-the-badge
 [license-url]: https://github.com/cmtungit/hoteru/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/linkedin_username
-[product-screenshot]: public\screenshot.png
+[product-screenshot]: public/screenshot.png
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
