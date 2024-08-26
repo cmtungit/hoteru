@@ -58,7 +58,7 @@ A Hotel Booking Web Application
       <a href="#about-the-project">About The Project</a>
       <ul>
         <li><a href="#key-features">Key features</a></li>
-        <li><a href="#built-with">Built With</a></li>
+        <!-- <li><a href="#built-with">Built With</a></li> -->
       </ul>
     </li>
     <li>
@@ -126,11 +126,7 @@ This is an example of how to list things you need to use the software and how to
    ```sh
    npm install
    ```
-3. Enter your API in `config.js`
-   ```js
-   const API_KEY = "ENTER YOUR API";
-   ```
-4. Change git remote url to avoid accidental pushes to base project
+3. Change git remote url to avoid accidental pushes to base project
    ```sh
    git remote set-url origin github_username/repo_name
    git remote -v # confirm the changes
@@ -198,7 +194,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 ## Contact
 
-Your Name - [@cmtungit](https://github.com/cmtungit) - cmtung.it@gmail.com
+Tom Tung - [@cmtungit](https://github.com/cmtungit) - cmtung.it@gmail.com
 
 Project Link: [https://github.com/cmtungit/hoteru](https://github.com/cmtungit/hoteru)
 
@@ -208,6 +204,7 @@ Project Link: [https://github.com/cmtungit/hoteru](https://github.com/cmtungit/h
 
 ## Acknowledgments
 My fellow groupmates
+
 <a href="https://github.com/llkk87">
     <img src="https://avatars.githubusercontent.com/u/45361544?s=64&v=4" alt="Paul Chan Logo" width="80" height="80">
   </a>
