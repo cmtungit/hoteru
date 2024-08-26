@@ -32,7 +32,6 @@ import "./App.css";
 import hamburger from "./img/hamburger.png";
 
 function App() {
-  app.use(cors());
 
   const { currentUser } = useAuth();
 

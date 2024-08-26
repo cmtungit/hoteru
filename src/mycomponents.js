@@ -1202,7 +1202,7 @@ function SearchButton({
             children: `${children}`,
             children_ages: `${childrenAge}`,
             currency: "HKD",
-            api_key: "2d2ecee562168eaed5e57cf9d2f58199d52272e8fb527d44345321e2a8ae25e3",
+            api_key: "fae153abc369e2c25284c39de2b4241751818bab0c79ad3b0bdcaf2b5f8902a7",
           })
       );
       const result = await response.json();
@@ -1231,8 +1231,8 @@ function SearchButton({
 export function SearchFunction({ hotelData, setHotelData, originalHotelData, setOriginalHotelData }) {
   let navigate = useNavigate();
   const [date, setDate] = React.useState({
-    from: new Date(2024, 3, 20),
-    to: addDays(new Date(2024, 3, 20), 2),
+    from: new Date(2024, 7, 26),
+    to: addDays(new Date(2024, 7, 26), 2),
   });
   const [adult, setAdult] = React.useState(1);
   const [children, setChildren] = React.useState(0);
@@ -1399,6 +1399,7 @@ export function FilterFunction({ hotelData, originalHotelData, setHotelData }) {
         ...new Set(hotelData.properties.flatMap((property) => property.amenities).filter((a) => a !== undefined)),
       ];
       console.log(amenitiesList);
+      console.log(emptyArray);
       for (const e of amenitiesList) {
         const countingAmenities = hotelData.properties.filter((property) => property.amenities.includes(e));
         emptyArray.push({ amenities: e, count: countingAmenities.length });
