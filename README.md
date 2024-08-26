@@ -88,12 +88,17 @@ This is a multiple pages hotel booking web application built using React, Tailwi
 ### Key features
 
 1. Hotel Search, sorting and filtering:
-  - Users can search for hotels, sort the search results based on relevance, prices and rating, and filter the results based on checked amenities 
+
+- Users can search for hotels, sort the search results based on relevance, prices and rating, and filter the results based on checked amenities
+
 2. Favorites, Cart, and Order Records (for logged-in users):
-  - Users can add hotels to their favorites, which are stored in the application state and synced with the user's Firestore data
-  - Users can add hotels to their cart, and the total price is calculated and stored in the state
-  - Users can view their order history in the Order Record page, which retrieves data from the user's Firestore account
+
+- Users can add hotels to their favorites, which are stored in the application state and synced with the user's Firestore data
+- Users can add hotels to their cart, and the total price is calculated and stored in the state
+- Users can view their order history in the Order Record page, which retrieves data from the user's Firestore account
+
 3. Chatbot
+
 - Users can use a chatbot to greet or get hotel recommendations by typing city names (mock data)
 
 ### Built With [![React][React.js]][React-url]
@@ -206,15 +211,12 @@ Project Link: [https://github.com/cmtungit/hoteru](https://github.com/cmtungit/h
 
 My fellow groupmates
 
-[![Paul Chan Logo](https://avatars.githubusercontent.com/u/45361544?s=64&v=4)]{width=80px height=80px}(https://github.com/llkk87)
-[![Eve Sung Logo](https://avatars.githubusercontent.com/u/136465766?s=64&v=4)]{width=80px height=80px}(https://github.com/Evelyiu)
-Sing - sing09512@gmail.com
+<!-- [![Paul Chan Logo](https://avatars.githubusercontent.com/u/45361544?s=64&v=4)](https://github.com/llkk87)
+[![Eve Sung Logo](https://avatars.githubusercontent.com/u/136465766?s=64&v=4)](https://github.com/Evelyiu) -->
 
-<!-- <a href="https://github.com/llkk87">
-    <img src="https://avatars.githubusercontent.com/u/45361544?s=64&v=4" alt="Paul Chan Logo" width="80" height="80">
-  </a><a href="https://github.com/Evelyiu">
-    <img src="https://avatars.githubusercontent.com/u/136465766?s=64&v=4" alt="Eve Sung Logo" width="80" height="80">
-  </a>  -->
+<a href="https://github.com/llkk87"><img src="https://avatars.githubusercontent.com/u/45361544" alt="Paul Chan Logo" width="80" height="80"></a>
+<a href="https://github.com/Evelyiu"><img src="https://avatars.githubusercontent.com/u/136465766" alt="Eve Sung Logo" width="80" height="80"></a>
+Sing - sing09512@gmail.com
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
