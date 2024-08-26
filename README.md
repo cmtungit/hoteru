@@ -206,9 +206,9 @@ Project Link: [https://github.com/cmtungit/hoteru](https://github.com/cmtungit/h
 
 My fellow groupmates
 
-[![Paul Chan Logo](https://avatars.githubusercontent.com/u/45361544?s=64&v=4)](https://github.com/llkk87)
-[![Eve Sung Logo](https://avatars.githubusercontent.com/u/136465766?s=64&v=4)](https://github.com/Evelyiu)
-[Sing](sing09512@gmail.com)
+[![Paul Chan Logo](https://avatars.githubusercontent.com/u/45361544?s=64&v=4){width=80px height=80px}](https://github.com/llkk87)
+[![Eve Sung Logo](https://avatars.githubusercontent.com/u/136465766?s=64&v=4){width=80px height=80px}](https://github.com/Evelyiu)
+[Sing] - sing09512@gmail.com
 
 <!-- <a href="https://github.com/llkk87">
     <img src="https://avatars.githubusercontent.com/u/45361544?s=64&v=4" alt="Paul Chan Logo" width="80" height="80">
