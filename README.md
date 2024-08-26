@@ -1,5 +1,5 @@
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
-
+<style> a { text-decoration: none;} </style>
 <a id="readme-top"></a>
 
 <!--
@@ -207,9 +207,9 @@ My fellow groupmates
 
 <a href="https://github.com/llkk87">
     <img src="https://avatars.githubusercontent.com/u/45361544?s=64&v=4" alt="Paul Chan Logo" width="80" height="80">
-  </a>.<a href="https://github.com/Evelyiu">
+  </a><a href="https://github.com/Evelyiu">
     <img src="https://avatars.githubusercontent.com/u/136465766?s=64&v=4" alt="Eve Sung Logo" width="80" height="80">
-  </a>.<a href="sing09512@gmail.com">Sing</a>
+  </a> [Sing](sing09512@gmail.com)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
